@@ -85,12 +85,13 @@ I have taken in the notebook. But if I, in-case missed something, do it out to m
 By performing the operation, we have closely detected same images. The model
 perfectly works on congruent images and helps easily find all the images in the
 database.
-
+![true image1](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)  ![true image2](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)
 ```
-Figure 1: The model verifies same images asTrue.
+Figure 1: The model verifies same images as True.
 ```
+![true image](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)  ![true image](http://img.fkcdn.com/image/tunic/f/y/c/gw-476-goodwill-impex-3xl-200x200-imaegtkm38vqkdyz.jpeg)
 ```
-Figure 2: The model verifies different images asFalse.
+Figure 2: The model verifies different images as False.
 ```
 ### 4.1 Problem faced
 
@@ -135,4 +136,3 @@ for Face Recognition and Clustering. Google Inc.
 [6] Yaniv Taigman Ming Yang, Marc’Aurelio Ranzato, Lior Wolf,Closing the
 Gap to Human-Level Performance in Face Verification. Facebook AI Re-
 search.
-
