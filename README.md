@@ -85,6 +85,7 @@ I have taken in the notebook. But if I, in-case missed something, do it out to m
 By performing the operation, we have closely detected same images. The model
 perfectly works on congruent images and helps easily find all the images in the
 database.
+
 ![true image1](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)  ![true image2](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)
 ```
 Figure 1: The model verifies same images as True.
