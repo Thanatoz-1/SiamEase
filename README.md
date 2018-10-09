@@ -90,7 +90,7 @@ database.
 ```
 Figure 1: The model verifies same images as True.
 ```
-![true image](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)  ![true image](http://img.fkcdn.com/image/tunic/f/y/c/gw-476-goodwill-impex-3xl-200x200-imaegtkm38vqkdyz.jpeg)
+![true image](http://img.fkcdn.com/image/tunic/3/s/c/gj19135-tu-180red-global-desi-s-200x200-imaeyzczspzxzzgx.jpeg)  ![False image](http://img.fkcdn.com/image/tunic/f/y/c/gw-476-goodwill-impex-3xl-200x200-imaegtkm38vqkdyz.jpeg)
 ```
 Figure 2: The model verifies different images as False.
 ```
