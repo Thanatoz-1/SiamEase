@@ -6,7 +6,7 @@
 
 
 Abstract
-The purpose of this project is to remove duplicates from the Flipkart
+The purpose of this project is to remove duplicates from a popular E-commerce
 cdn’s little data-set dump. The provided data-set is an enormous database
 containing information about the clothing products. The main aim of
 this project is to remove all possible redundant data that might have
