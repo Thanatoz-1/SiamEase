@@ -1,4 +1,5 @@
-# Infilect Assignment
+# Siam Ease
+##One-shot learning for image de-duplicacy
 
 ### Tushar Dhyani
 
